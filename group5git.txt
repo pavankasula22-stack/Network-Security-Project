@@ -1,0 +1,4 @@
+https://drive.google.com/drive/folders/1zmyAy012c4yXAuPnrVF7aBH_-Lofei_d?usp=sharing
+
+
+This is the Pfsense ova file which has all the configurations required for the network. For the remaining you can check the document.
